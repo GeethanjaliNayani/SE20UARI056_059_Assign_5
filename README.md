@@ -2,6 +2,8 @@
 ## Team Members:
 1. Geethanjali Nayani, SE20UARI056
 2. Gowravelli Saketh Rao, SE20UARI059
+3. Saketh Bettakonda, SE20UARI032
+4. Salver Anushika, SE20UARI134
 ## Assignment-5
 ## Data Acquisition using Raspberry Pi Report
 For the project, we have used DHT11 sensor (digital sensor) for capturing temperature and humidity. It uses a thermistor (for temp) and humidity sensor (for humidity) to measure the surrounding air and then it sends out a digital signal onto the data pin.
